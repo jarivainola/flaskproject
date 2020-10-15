@@ -1,7 +1,7 @@
 # flaskproject
 
 Flask/API based web application written in Python.
-* APIs are **/users** and **/user/<string:name>**
+* APIs are **/users** and **/user/&lt;string:name&gt;**
 
 Data is stored in memory but can be enhanced to use file or database.
 
