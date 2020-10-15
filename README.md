@@ -11,7 +11,7 @@ API test done using [Insomnia](https://insomnia.rest/)
 # Usage
 
 URL examples:
-* https://&lt;<ip address>/users/all
-* https://&lt;<ip address>/user/John
+* https://&lt;<ip address&gt;>/users/all
+* https://&lt;<ip address&gt;>/user/John
 
 ip address can be localhost:5000 or 127.0.0.1:5000
